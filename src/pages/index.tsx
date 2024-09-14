@@ -18,7 +18,7 @@ export default function Home() {
           href='/favicon.ico'
         />
       </Head>
-      <div>Hello World!</div>
+      <div>Hello World, IT-INCUBATOR!</div>
     </>
   )
 }
