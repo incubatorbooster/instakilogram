@@ -39,6 +39,9 @@ importers:
       '@storybook/blocks':
         specifier: ^8.3.0
         version: 8.3.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(storybook@8.3.0)
+      '@storybook/manager-api':
+        specifier: ^8.3.0
+        version: 8.3.0(storybook@8.3.0)
       '@storybook/nextjs':
         specifier: ^8.3.0
         version: 8.3.0(esbuild@0.23.1)(next@14.2.9(@babel/core@7.25.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(sass@1.78.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(sass@1.78.0)(storybook@8.3.0)(type-fest@2.19.0)(typescript@5.6.2)(webpack-hot-middleware@2.26.1)(webpack@5.94.0(esbuild@0.23.1))
@@ -46,6 +49,9 @@ importers:
         specifier: ^8.3.0
         version: 8.3.0(@storybook/test@8.3.0(storybook@8.3.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(storybook@8.3.0)(typescript@5.6.2)
       '@storybook/test':
+        specifier: ^8.3.0
+        version: 8.3.0(storybook@8.3.0)
+      '@storybook/theming':
         specifier: ^8.3.0
         version: 8.3.0(storybook@8.3.0)
       '@types/node':
