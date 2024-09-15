@@ -17,6 +17,8 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".storybook/preview.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx",
+    ".storybook/preview"
+  ],
   "exclude": ["node_modules"]
 }
