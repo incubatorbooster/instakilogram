@@ -7304,7 +7304,7 @@ function Ar(r, e, t) {
     }
     return P;
   }, "applyLoaders"), l = /* @__PURE__ */ n(async (w) => {
-    let P = new Array();
+    let P = [];
     for (let M of [
       ...j(t.beforeEach),
       ...j(e.beforeEach),
